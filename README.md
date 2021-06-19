@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gopika Raj else known as cLueLess_GameDev(@GRaj-gitHub)
-- 👀 I’m interested in Game Devolepment and Engineering
+- 👀 I’m interested in Game Devolepment and Programming
 - 🌱 I’m currently learning ...Unity, C#, C++, Unreal, PHP, CSS(oh you have no clue)
-- 💞️ I’m looking to collaborate on ...Game Development Projcts
+- 💞️ I’m looking to collaborate on ...Game Development Projects
 - 📫 How to reach me ...simple send me a mail : raj.gopika1105@gmail.com
 
 <!---
