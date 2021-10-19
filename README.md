@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Gopika Raj else known as cLueLess_GameDev(@GRaj-gitHub)
+- 👋 Hi, I’m Gopika Raj else known as ClueLes_GameDev(@GRaj-gitHub)
 - 👀 I’m interested in Game Devolepment and Programming
-- 🌱 I’m currently learning ...Unity, C#, C++, Unreal, PHP, CSS(oh you have no clue)
+- 🌱 I’m currently learning ...Unity, C#, C++, Unreal, PHP, CSS, JS(the list is long) 
 - 💞️ I’m looking to collaborate on ...Game Development Projects
-- 📫 How to reach me ...simple send me a mail : raj.gopika1105@gmail.com
+- 📫 How to reach me ...simple send me a mail : gopika.raj.1105@gmail.com
 
 <!---
 GRaj-gitHub/GRaj-gitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
